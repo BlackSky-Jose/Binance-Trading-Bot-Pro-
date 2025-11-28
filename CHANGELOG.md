@@ -18,7 +18,7 @@ All notable changes to this project will be documented in this file.
 - Fixed the issue with minNotional - [#623](https://github.com/chrisleekr/binance-trading-bot/pull/623)
 - Add clear symbols button by [@TheSmuks](https://github.com/TheSmuks) - [#626](https://github.com/chrisleekr/binance-trading-bot/pull/626)
 - Improved customised setting details by [@rando128](https://github.com/rando128) - [#625](https://github.com/chrisleekr/binance-trading-bot/pull/625)
-- Updated collapsable header UX by [@rando128](https://github.com/rando128) - [#624](https://github.com/chrisleekr/binance-trading-bot/pull/624)
+
 
 Thanks [@TheSmuks](https://github.com/TheSmuks) and [@rando128](https://github.com/rando128) for your great contributions. 💯 :heart:
 
@@ -63,10 +63,6 @@ Thanks [@rando128](https://github.com/rando128) for your great contributions. �
 
 Thanks [@habibalkhabbaz](https://github.com/habibalkhabbaz) and [@rando128](https://github.com/rando128) for your great contributions. 💯 :heart:
 
-## [0.0.93] - 2022-10-07
-
-- Updated redlock locking period by [@habibalkhabbaz](https://github.com/habibalkhabbaz) - [#522](https://github.com/chrisleekr/binance-trading-bot/pull/522)
-- Updated Slack notification for last buy updated and buy confirmation by [@rando128](https://github.com/rando128) - [#518](https://github.com/chrisleekr/binance-trading-bot/pull/518)
 
 ## [0.0.92] - 2022-10-07
 
